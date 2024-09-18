@@ -1,1 +1,1 @@
-# Schedule-App
+# Schedule Application
